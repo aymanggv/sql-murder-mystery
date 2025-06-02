@@ -24,7 +24,7 @@ It’s an excellent test of SQL skills and Data Analysis involving:
 
 ## 🚀 My Approach
 
-I solved the challenge using **SQLite** in a local environment. I started with the experienced prompt, analyzed the schema, and worked through the clues step-by-step entirely with SQL queries. My goal was to rely solely on SQL logic—no external notes or assumptions.
+I solved the challenge using **SQLite** in a local environment. I started with the experienced prompt, analyzed the schema, and worked through the clues step-by-step entirely with SQL queries. My goal was to rely solely on SQL logic. No external notes or assumptions.
 
 ---
 
