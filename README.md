@@ -13,7 +13,7 @@ The SQL Murder Mystery is a self-guided puzzle that requires you to:
 - Piece together clues using data from multiple tables
 - Identify the killer based on the evidence
 
-It’s an excellent test of SQL skills involving:
+It’s an excellent test of SQL skills and Data Analysis involving:
 - Filtering
 - Joins
 - Subqueries
@@ -27,6 +27,3 @@ It’s an excellent test of SQL skills involving:
 I solved the challenge using **SQLite** in a local environment. I started with the experienced prompt, analyzed the schema, and worked through the clues step-by-step entirely with SQL queries. My goal was to rely solely on SQL logic—no external notes or assumptions.
 
 ---
-
-## 📁 Folder Structure
-
